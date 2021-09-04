@@ -1,5 +1,5 @@
 # CAP-10---APLICA-ES-EM-CLOUD-COMPUTING
-Utilizei a API da mapquest para gerar um staticmap no meu projeto implementado para o cenário de hospedagem.
+Utilizei a API da mapquest para gerar um staticmap no projeto de hospedagem.
 Com ela eu consegui substituir o antigo mapa da localização do hotel utilizando coordenadas
 
 Atenção, a API foi aplicada no hotel: 
