@@ -4,7 +4,7 @@ Com ela eu consegui substituir o antigo mapa da localização do hotel utilizand
 
 Atenção, a API foi aplicada no hotel: 
 Blue Tree Premium;
-![image](https://user-images.githubusercontent.com/79736834/132109168-f0e1dcc9-4e4d-45b4-87e1-85f9dd0ee9e2.png)
+![image](https://user-images.githubusercontent.com/79736834/132109436-19395c42-dc77-4500-bd89-28ab6d67b717.png)
 
 Ao clicar no hotel, a API carrega a imagem do mapa onde as coordenadas injetadas -23.55987743398744, -46.656155797339885 no código HTML são exibidas. Antes dessa implementação era necessário subir as imagens de cada hotel, agora podemos apenas adicionar as coordenadas e a imagem será gerada automaticamente. 
 
